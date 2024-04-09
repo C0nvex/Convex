@@ -12,14 +12,12 @@ These results show that Convex is a crucial part of the fight against climate ch
 
 This is a project for the 2024 South Fraser Regional Science Fair. [See more about Convex here](https://projectboard.world/ysc/project/convex-foresight-into-contrail-forecasting?utm_source=shareLink_share_160422&postID=953381&rc=jownnmqj)
 
-To download data directly from the Climate Data Store, see [here.](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset&text=era5)
-
 # Setup
 
 You may have to reconfigure the file locations that point to the dataset files, especially if you are not using Google Colab.
 The datasets used are too large for GitHub, you can find them [here](https://drive.google.com/drive/folders/1mkCzbjkBUyjbBR0jBj8TyAS7OZD1iqnS?usp=drive_link)
 
 Note that the non-legacy datasets are more comprehensive, but you may run into memory issues with them like I did when testing them on my model.
-
+To download data directly from the Climate Data Store, see [here.](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset&text=era5)
 
 Convex may be migrated to a user-friendly .py file or Python library in the future, stay tuned for updates!
