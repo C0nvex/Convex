@@ -10,7 +10,7 @@ After testing multiple models and undergoing an extensive tuning process, the al
 
 These results show that Convex is a crucial part of the fight against climate change, and with it we could reduce the impact of aviation by half. Not in 20 or 10 years, but right now.
 
-This is a project for the 2024 South Fraser Regional Science Fair. [See more about the Convex here](https://projectboard.world/ysc/project/convex-foresight-into-contrail-forecasting?utm_source=shareLink_share_160422&postID=953381&rc=jownnmqj)
+This is a project for the 2024 South Fraser Regional Science Fair. [See more about Convex here](https://projectboard.world/ysc/project/convex-foresight-into-contrail-forecasting?utm_source=shareLink_share_160422&postID=953381&rc=jownnmqj)
 
 To download data directly from the Climate Data Store, see [here.](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset&text=era5)
 
